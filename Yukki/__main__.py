@@ -127,8 +127,8 @@ async def initiate_bot():
             console.print(f"\n[red]Stopping Bot")
             return
         try:
-            await ASS_CLI_1.join_chat("pantekyks")
-            await ASS_CLI_1.join_chat("rendyprojects")
+            await ASS_CLI_1.join_chat("Zeennihh")
+            await ASS_CLI_1.join_chat("ZennXSupport")
         except:
             pass
         console.print(f"├[red] Assistant 1 Started as {ASSNAME1}!")
